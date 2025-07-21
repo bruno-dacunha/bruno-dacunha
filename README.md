@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá! Eu sou o Bruno da Cunha. 
 
-<!--
-**bruno-dacunha/bruno-dacunha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tenho como objetivo combinar minha experiência profissional e analítica ao uso de **dados**, **automação** e **inteligência artificial** para gerar eficiência, otimizar processos e entregar valor real aos negócios.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Áreas de Interesse:
+- Automação de Processos  
+- Análise e Visualização de Dados  
+- Inteligência Artificial aplicada
+- Otimização de Operações
+
+---
+
+### 🌐 Onde me encontrar:
+- [LinkedIn — Bruno da Cunha](https://www.linkedin.com/in/bruno-cunha-73515835a)  
+- [E-mail](mailto:cunhabruno.imecc@gmail.com)  
+
+
