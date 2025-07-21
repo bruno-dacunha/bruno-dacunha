@@ -1,6 +1,6 @@
 # Olá! Eu sou o Bruno da Cunha. 
 
-Tenho como objetivo combinar minha experiência profissional e analítica ao uso de **dados**, **automação** e **inteligência artificial** para gerar eficiência, otimizar processos e entregar valor real aos negócios.  
+Na transição de minha carreira, tenho como objetivo combinar minha experiência profissional e analítica ao uso de **dados**, **automação** e **inteligência artificial** para gerar eficiência, otimizar processos e entregar valor real aos negócios.  
 
 ---
 ### 📂 Sobre meu GitHub:
