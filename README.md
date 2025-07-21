@@ -21,7 +21,7 @@ Os materiais aqui disponibilizados refletem minha abordagem prática e analític
 ---
 
 ### 🌐 Onde me encontrar:
-- [LinkedIn — Bruno da Cunha](https://www.linkedin.com/in/bruno-cunha-73515835a)  
+- [LinkedIn](https://www.linkedin.com/in/bruno-cunha-73515835a)  
 - [E-mail](mailto:cunhabruno.imecc@gmail.com)  
 
 
