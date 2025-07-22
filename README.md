@@ -12,7 +12,7 @@ Os materiais aqui disponibilizados refletem minha abordagem prática e analític
 
 ---
 ### 📊 Estudando  
-[![Formado na Impacta](https://img.shields.io/badge/🎓%20Formação%20Data%20Sciense-na%20Impacta%20Tecnologia-blue)](https://www.impacta.edu.br)
+[![Formado na Impacta](https://img.shields.io/badge/🎓%20Formação%20Data%20Sciense-%20Impacta%20Tecnologia-blue)](https://www.impacta.edu.br)
 
 ---
 
