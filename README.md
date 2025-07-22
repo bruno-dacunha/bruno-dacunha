@@ -11,9 +11,11 @@ Os materiais aqui disponibilizados refletem minha abordagem prática e analític
 *Os projetos estão acessíveis para consulta por empresas e profissionais que desejem conhecer minhas competências técnicas e minha atuação no desenvolvimento de soluções.*
 
 ---
-### 📊 Estudando  
-[![Formado na Impacta](https://img.shields.io/badge/🎓%20Formação%20Data%20Sciense-%20Impacta%20Tecnologia-blue)](https://www.impacta.edu.br)
-[![Formado na Impacta](https://img.shields.io/badge/🎓%20Análise%20e%20Desenvolvimento%20De%20Sistemas-%20FIAP-blue)](https://www.fiap.com.br)
+### 💻 Estudando  
+
+[![Formado na Impacta](https://img.shields.io/badge/🎓%20Formação%20Data%20Sciense-%20Impacta%20Tecnologia-blue)](https://www.impacta.edu.br)  
+[![Formado na FIAP](https://img.shields.io/badge/🎓%20Análise%20e%20Desenvolvimento%20De%20Sistemas-%20FIAP-blue)](https://www.fiap.com.br)
+
 
 ---
 
