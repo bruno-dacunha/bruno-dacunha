@@ -28,7 +28,11 @@ Os materiais aqui disponibilizados refletem minha abordagem prática e analític
 ---
 
 ### 🌐 Onde me encontrar:
-- [LinkedIn](https://www.linkedin.com/in/bruno-cunha-73515835a)  
-- [E-mail](mailto:cunhabruno.imecc@gmail.com)  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bruno-cunha-73515835a)
+
+- [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:cunhabruno.imecc@gmail.com)
+
+
+
 
 
