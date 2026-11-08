@@ -17,12 +17,10 @@ Estou utilizando minha afinidade com áreas de suporte (CS e Implantação) como
 ### 🛠️ Minha Caixa de Ferramentas
 *   **Customer Success & Relacionamento:** Cultura Customer Centric, SPIN Selling (diagnóstico de dores), Escuta Ativa, Modelos de Relacionamento (Tech/Low/High-touch) e Gestão de Indicadores (NPS, Churn, LTV, Health Score).
 *   **Processos & Dados:** Power BI, Excel Avançado, MS Access, Modelagem de Dados, Estruturação de KPIs e Criação de POPs.
-*   **Tecnologia em Desenvolvimento:** Oracle SQL, Java (Spring Boot), Fundamentos de Integrações (APIs) e HTML/CSS.
-*   **Sistemas Operacionais:** Tiny ERP, Bling!, Salesforce, Olist.
 
 ### 🚀 Projetos em Destaque
 *   [MedSync - Powered by Care Plus](https://bruno-dacunha.github.io/medsync-careplus-challenge/): Solução digital desenvolvida para redução de *no-show* em clínicas. O projeto une UX, automação de fila de espera e inteligência de dados para otimizar a agenda médica e engajar o paciente.
 
 ---
 📫 **Vamos conversar?**
-[LinkedIn](cole-aqui-o-link-do-seu-linkedin) | ✉️ cunhabruno.imecc@gmail.com
+[LinkedIn](www.linkedin.com/in/bruno-cunha-73515835a) | ✉️ cunhabruno.imecc@gmail.com | (11) 9 4877-9106
