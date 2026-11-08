@@ -11,8 +11,8 @@ Estou utilizando minha afinidade com áreas de suporte (CS e Implantação) como
 
 ### 💼 Foco e Atuação
 *   **Operações & Eficiência:** Gestão de marketplaces, parametrização de ecossistemas (ERP/CRM), estruturação de regras de negócio e mapeamento de fluxos.
-*   **Customer Success:** Maximização de valor, visão multicanal (omnichannel) e resolução ágil de gargalos na jornada do cliente.
-*   **Tecnologia como Meio:** Automação de rotinas gerenciais, uso de IA aplicada à produtividade e modelagem de KPIs (Power BI / Excel Avançado).
+*   **Customer Success:** Maximização de valor e resolução ágil de gargalos na jornada do cliente.
+*   **Tecnologia como Meio:** Automação de rotinas gerenciais, uso de IA aplicada à produtividade, processos e KPIs.
 
 ### 🛠️ Minha Caixa de Ferramentas
 *   **Processos & Dados:** Power BI, MS Access, Excel Avançado, Modelagem de Dados, BPM/POPs.
