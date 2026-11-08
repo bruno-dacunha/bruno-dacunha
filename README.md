@@ -2,7 +2,7 @@
 
 Com mais de 9 anos de experiência na linha de frente de Logística, Planejamento Operacional e E-commerce (incluindo passagem pela B2W e a gestão do meu próprio negócio), minha base foi forjada resolvendo problemas reais de escala, atendimento e SLA.
 
-Atualmente atuo como **Analista de E-commerce**, onde minha rotina é puramente focada em eficiência: administração e parametrização de ERPs (Tiny/Bling), integrações via API com múltiplos marketplaces, e o uso contínuo de dados e ferramentas (incluindo IA) para otimizar processos diários e criar Procedimentos Operacionais Padrão (POPs).
+Atualmente atuo como **Analista de E-commerce**, onde minha rotina é puramente focada em eficiência: administração e parametrização de ERPs (Tiny), integrações via API com múltiplos marketplaces, e o uso contínuo de dados e ferramentas (incluindo IA) para otimizar processos diários e criar Procedimentos Operacionais Padrão (POPs).
 
 ### 🎯 A Ponte para a Tecnologia
 Cursando **Análise e Desenvolvimento de Sistemas (FIAP)** e certificado em **Customer Success**, construí uma estratégia clara de transição de carreira. 
