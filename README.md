@@ -2,7 +2,7 @@
 
 Atuo na intersecção entre **Negócios, Operações e Tecnologia**. 
 
-Com mais de 8 anos de experiência na linha de frente de Logística, E-commerce e Planejamento Operacional, vivi na pele os desafios de escalar operações, gerenciar SLAs e garantir a satisfação do cliente. 
+Com mais de 9 anos de experiência na linha de frente de Logística, E-commerce e Planejamento Operacional, vivi na pele os desafios de escalar operações, gerenciar SLAs e garantir a satisfação do cliente. 
 
 Hoje, cursando **Análise e Desenvolvimento de Sistemas (FIAP)** e certificado em **Customer Success**, direciono minha carreira para atuar como ponte estratégica em áreas de relacionamento com o cliente (Comercial, CS ou Implantação). Meu objetivo é traduzir desafios operacionais complexos em soluções de tecnologia práticas que gerem eficiência e melhorem a jornada do cliente.
 
