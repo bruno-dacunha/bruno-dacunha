@@ -23,4 +23,4 @@ Estou utilizando minha afinidade com áreas de suporte (CS e Implantação) como
 
 ---
 📫 **Vamos conversar?**
-[LinkedIn](www.linkedin.com/in/bruno-cunha-73515835a) | ✉️ cunhabruno.imecc@gmail.com | (11) 9 4877-9106
+[LinkedIn](https://www.linkedin.com/in/bruno-cunha-73515835a/) | ✉️ cunhabruno.imecc@gmail.com | (11) 9 4877-9106
