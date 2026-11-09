@@ -20,7 +20,8 @@ Estou utilizando minha afinidade com áreas de suporte (CS e Implantação) como
 
 ### 🚀 Projetos em Destaque
 *   [MedSync - Powered by Care Plus](https://bruno-dacunha.github.io/medsync-careplus-challenge/): Solução digital desenvolvida para redução de *no-show* em clínicas. O projeto une UX, automação de fila de espera e inteligência de dados para otimizar a agenda médica e engajar o paciente.
-
+*   [ScanSphere AI - O Futuro do Trabalho](https://github.com/bruno-dacunha/scansphere-global-solution): Conceito de plataforma B2B SaaS focada em *lifelong learning* corporativo. A solução converte interações diárias com ferramentas de IA em trilhas ativas de *upskilling* e *reskilling*, entregando engajamento para a operação e painéis de dados (visibilidade) para a gestão estratégica.
+*   [LetsSign Mobile - Plataforma de Assinatura Digital](https://github.com/bruno-dacunha/letssign-mobile-mvp): MVP de um aplicativo 100% nativo focado em usabilidade (*frictionless*) e segurança operacional para o ecossistema de assinaturas eletrônicas. O projeto destaca a jornada B2B otimizada (motor visual *Drag & Drop*) e a arquitetura técnica escalável que blinda e acelera o fechamento de contratos.
 ---
 📫 **Vamos conversar?**
 [LinkedIn](https://www.linkedin.com/in/bruno-cunha-73515835a/) | ✉️ cunhabruno.imecc@gmail.com | (11) 9 4877-9106
